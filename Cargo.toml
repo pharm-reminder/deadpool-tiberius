@@ -36,6 +36,7 @@ native-tls = ["tiberius/native-tls"]
 opentls = ["tiberius/opentls"]
 bigdecimal = ["tiberius/bigdecimal"]
 rust_decimal = ["tiberius/rust_decimal"]
+integrated-auth-gssapi = ["tiberius/integrated-auth-gssapi"]
 
 [dev-dependencies]
 futures-lite = "1.13.0"
